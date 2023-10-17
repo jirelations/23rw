@@ -1,83 +1,84 @@
 ﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,0,17.10,2023-10-17-0.md,,Vorstellen,0. Vorstellen,0,,0-Vorstellen,,,[0],"---
+,0,17.10,2023-10-17-0.md,,Vorstellen,0. Vorstellen,0,,0-Vorstellen,,,[0],"
+---
+layout: post
+session: 0
+tags: [0]
+level: overview
+---"
+,1,24.10,2023-10-24-1.md,,Was ist Religion?,1. Was ist Religion?,1,,1-Was-ist-Religion?,"[stausbergReligionBegriffDefinitionen2012a, wenzelDefinitionenReligion2023a]",,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,1,24.10,2023-10-24-1.md,,Was ist Religion?,1. Was ist Religion?,1,,1-Was-ist-Religion?,"[stausbergReligionBegriffDefinitionen2012a, wenzelDefinitionenReligion2023a]",,[1],"---
+,2,31.10,2023-10-31-2.md,,Rituale und Gesellschaft,2. Rituale und Gesellschaft,2,02_Fussball.jpg,2-Rituale-und-Gesellschaft,"[brombergerFussballAlsWeltsicht2003a, langerTherapeutischreligioseRitualperformanzenIm2015a]",,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,2,31.10,2023-10-31-2.md,,Rituale und Gesellschaft,2. Rituale und Gesellschaft,2,,2-Rituale-und-Gesellschaft,"[brombergerFussballAlsWeltsicht2003a, langerTherapeutischreligioseRitualperformanzenIm2015a]",,[2],"---
+,3,07.11,2023-11-07-3.md,,Religiöse Gruppenbildung und Autoritäten,3. Religiöse Gruppenbildung und Autoritäten,3,,3-Religiöse-Gruppenbildung-und-Autoritäten,[rengerIIIMeisterJuengerUnd2012],,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,3,07.11,2023-11-07-3.md,,Religiöse Gruppenbildung und Autoritäten,3. Religiöse Gruppenbildung und Autoritäten,3,,3-Religiöse-Gruppenbildung-und-Autoritäten,,,[3],"---
+,4,14.11,2023-11-14-4.md,,Religion und Gender,4. Religion und Gender,4,04.MarabouWomen.jpg,4-Religion-und-Gender,"[frankeReligionenReligionswissenschaftUnd2012a, gemmekeMaraboutWomenDakar2009a]",,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,4,14.11,2023-11-14-4.md,,Religion und Gender,4. Religion und Gender,4,,4-Religion-und-Gender,"[frankeReligionenReligionswissenschaftUnd2012a, gemmekeMaraboutWomenDakar2009a]",,[4],"---
+,5,21.11,2023-11-21-5.md,,Häresie und Orthodoxie,5. Häresie und Orthodoxie,5,,5-Häresie-und-Orthodoxie,"[bernerSynkretismus2001a, langerYezidismScholarlyLiterature2010]",,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,5,21.11,2023-11-21-5.md,,Häresie und Orthodoxie,5. Häresie und Orthodoxie,5,,5-Häresie-und-Orthodoxie,,,[5],"---
+,6,28.11,2023-11-28-6.md,,Ausstellung: einander sehen – interreligiöse Kalligraphie,6. Ausstellung: einander sehen – interreligiöse Kalligraphie,6,06_gegenseitiges.anerkennen.shahid.alam.png.webp,6-Ausstellung:-einander-sehen-–-interreligiöse-Kalligraphie,,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,6,28.11,2023-11-28-6.md,,Ausstellung: einander sehen – interreligiöse Kalligraphie,6. Ausstellung: einander sehen – interreligiöse Kalligraphie,6,,6-Ausstellung:-einander-sehen-–-interreligiöse-Kalligraphie,,,[6],"---
+,7,05.12,2023-12-05-7.md,,Mündlichkeit und Schriftlichkeit,7. Mündlichkeit und Schriftlichkeit,7,,7-Mündlichkeit-und-Schriftlichkeit,[pelikanWrittenTorahTalmud2006],,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,7,05.12,2023-12-05-7.md,,Mündlichkeit und Schriftlichkeit,7. Mündlichkeit und Schriftlichkeit,7,,7-Mündlichkeit-und-Schriftlichkeit,,,[7],"---
+,8,12.12,2023-12-12-8.md,,Materialität von Religion / Religionsästhetik,8. Materialität von Religion / Religionsästhetik,8,08_materialeReligion.jpg,8-Materialität-von-Religion-/-Religionsästhetik,[prohlMaterialeReligion2012a],,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,8,12.12,2023-12-12-8.md,,Materialität von Religion / Religionsästhetik,8. Materialität von Religion / Religionsästhetik,8,,8-Materialität-von-Religion-/-Religionsästhetik,[prohlMaterialeReligion2012a],,[8],"---
+,9,19.12,2023-12-19-9.md,,Religionsgeografie,9. Religionsgeografie,9,,9-Religionsgeografie,"[hess12SacredSpaces2018a, walker11Pilgrimage2018a]",,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,9,19.12,2023-12-19-9.md,,Religionsgeografie,9. Religionsgeografie,9,,9-Religionsgeografie,,,[9],"---
+,10,09.01,2024-01-09-10.md,,Heilung,10. Heilung,10,,10-Heilung,"[csordasIntroduction1994a, zinserOrakelUndOffenbarung2010a]",,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,10,09.01,2024-01-09-10.md,,Heilung,10. Heilung,10,,10-Heilung,"[csordasIntroduction1994a, zinserOrakelUndOffenbarung2010a]",,[10],"---
+,11,16.01,2024-01-16-11.md,,Digital Religion,11. Digital Religion,11,,11-Digital-Religion,"[campbellContextualizingCurrentDigital2020, mattesYouBeOnYoungBelievers2022]",,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,11,16.01,2024-01-16-11.md,,Digital Religion,11. Digital Religion,11,,11-Digital-Religion,,,[11],"---
+,12,23.01,2024-01-23-12.md,,"Religionskonflikte, Fundamentalismus","12. Religionskonflikte, Fundamentalismus",12,12_iranischeSchiiten.jpeg,"12-Religionskonflikte,-Fundamentalismus",[riesebrodtFundamentalismusAlsPatriarchalische1990],,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,12,23.01,2024-01-23-12.md,,"Religionskonflikte, Fundamentalismus","12. Religionskonflikte, Fundamentalismus",12,,"12-Religionskonflikte,-Fundamentalismus",,,[12],"---
-layout: post
-session: 12
-tags: [12]
-level: overview
----"
-,13,30.01,2024-01-30-13.md,,Interreligiöser Dialog,13. Interreligiöser Dialog,13,,13-Interreligiöser-Dialog,[riesebrodtFundamentalismusAlsPatriarchalische1990],,[13],"---
+,13,30.01,2024-01-30-13.md,,Interreligiöser Dialog,13. Interreligiöser Dialog,13,,13-Interreligiöser-Dialog,[schmiedelInterreligioeserDialogAls2008],,[13],"---
 layout: post
 session: 13
 tags: [13]
