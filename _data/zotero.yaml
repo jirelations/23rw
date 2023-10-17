@@ -952,6 +952,40 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/08_Prohl_materialeReligion.pdf
 
+- id: rengerIIIMeisterJuengerUnd2012
+  abstract: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte was published in Religionswissenschaft on page 313.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  author:
+    - family: Renger
+      given: Almut-Barbara
+  citation-key: rengerIIIMeisterJuengerUnd2012
+  container-title: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte
+  DOI: 10.1515/9783110258936.313
+  editor:
+    - family: Stausberg
+      given: Michael
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  page: 313-326
+  publisher: De Gruyter
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte
+  type: chapter
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936.313
+
 - id: riesebrodtFundamentalismusAlsPatriarchalische1990
   accessed:
     - year: 2023
