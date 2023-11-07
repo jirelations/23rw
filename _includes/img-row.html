@@ -3,6 +3,6 @@
 
     {% for image in images %}
         <!-- <div style="background-image: url({{ image }});"/> -->
-        <img src="{{ image }}"/>
+        <img src="{{ image }}" style="object-fit: {{include.fit | default: 'cover'}};"/>
     {% endfor %}    
 </div>

@@ -966,13 +966,12 @@ references:
     - family: Renger
       given: Almut-Barbara
   citation-key: rengerIIIMeisterJuengerUnd2012
-  container-title: >-
-    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
-    Religionsgeschichte
+  container-title: Religionswissenschaft
   DOI: 10.1515/9783110258936.313
   editor:
     - family: Stausberg
       given: Michael
+  event-place: Berlin
   ISBN: 978-3-11-025893-6
   issued:
     - year: 2012
@@ -981,6 +980,7 @@ references:
   language: de
   page: 313-326
   publisher: De Gruyter
+  publisher-place: Berlin
   source: www-degruyter-com.proxy.ub.uni-frankfurt.de
   title: >-
     III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
