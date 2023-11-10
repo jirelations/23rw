@@ -74,7 +74,8 @@ references:
   source: BnF ISBN
   title: Synkretismus
   type: chapter
-  URL: https://books.google.de/books?id=5_3WAAAAMAAJ
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/05_Berner+-+2001+-+Synkretismus.pdf
   volume: '5'
 
 - id: brombergerFussballAlsWeltsicht2003a
@@ -529,7 +530,7 @@ references:
   title: 12. Sacred Spaces and Holy Places
   type: chapter
   URL: >-
-    https://www.google.de/books/edition/The_Oxford_Illustrated_History_of_the_Ho/uzdtDwAAQBAJ?hl=de&gbpv=1&pg=PA317&printsec=frontcover
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/09_Hess+and+Pringle+-+2018+-+12.+Sacred+Spaces+and+Holy+Places.pdf
 
 - id: hockEinfuehrungReligionswissenschaft2014
   accessed:
@@ -918,6 +919,8 @@ references:
   source: Google Books
   title: 'Beyond Written Torah: Talmud and Continuing Revelation'
   type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/07_Pelikan+-+2006+-+Beyond+Written+Torah+Talmud+and+Continuing+Revela.pdf
 
 - id: prohlMaterialeReligion2012a
   accessed:
@@ -1012,7 +1015,8 @@ references:
     Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich
   title-short: Fundamentalismus als patriarchalische Protestbewegung
   type: book
-  URL: http://swbplus.bsz-bw.de/bsz022317759rez.htm
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus.pdf
 
 - id: schmiedelInterreligioeserDialogAls2008
   author:
@@ -1038,6 +1042,8 @@ references:
   source: K10plus ISBN
   title: Interreligiöser Dialog als Aufgabe angewandter Religionswissenschaft
   type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/13_Schmiedel+-+2008+-+Interreligio%CC%88ser+Dialog+als+Aufgabe+angewandter+Rel.pdf
 
 - id: stausbergReligionBegriffDefinitionen2012a
   accessed:
@@ -1201,7 +1207,7 @@ references:
   title: 11. Pilgrimage
   type: chapter
   URL: >-
-    https://www.google.de/books/edition/The_Oxford_Illustrated_History_of_the_Ho/uzdtDwAAQBAJ?hl=de&gbpv=1&pg=PA281&printsec=frontcover
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19519635468/CourseNode/93668888136198/09_Walker+and+Hoyland+-+2018+-+11.+Pilgrimage.pdf
 
 - id: wenzelDefinitionenReligion2023a
   author:
@@ -1280,10 +1286,10 @@ references:
   URL: https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00107067-3
 
 - id: zinserOrakelUndOffenbarung2010a
-  citation-key: zinserOrakelUndOffenbarung2010a
-  container-author:
+  author:
     - family: Zinser
       given: Hartmut
+  citation-key: zinserOrakelUndOffenbarung2010a
   container-title: Grundfragen der Religionswissenschaft
   event-place: Paderborn
   issued:
